@@ -15,9 +15,7 @@ Net Core Razor Pages.
 
 ### Comandos utilizados:
 
-Generación de scaffolds Tournament, Fixture, Position, Match y Team
-
-_Scaffols Movie_
+Generación de scaffolds Movie
 
 ```
 > Add-Migration InitialCreate
