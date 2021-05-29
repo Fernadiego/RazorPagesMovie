@@ -1,6 +1,6 @@
-# Aplicacion Web Net Core Razor Pages
+# Aplicacion Web ASP.Net Core Razor Pages
 
-Net Core Razor Pages.
+ASP.Net Core Razor Pages.
 
 ## Tabla de Contenidos
 
