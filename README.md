@@ -6,12 +6,12 @@ ASP.Net Core Razor Pages.
 
 - [Requisitos](#requisitos)
 - [Comandos utilizados](#comandos_utilizados)
-- [Scaffolds](#Scaffolds)
 - [Testing](#Testing)
 
 ### Requisitos:
 
 - Microsoft Visual Studio Community 2019 Version 16.10.0
+- .NET 5.0
 
 ### Comandos utilizados:
 
