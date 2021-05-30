@@ -15,13 +15,13 @@ ASP.Net Core Razor Pages.
 
 ### Comandos utilizados:
 
-Generación de scaffolds Movie
+Para la aplicación de migraciones.
 
 ```
-> Add-Migration InitialCreate
+Add-Migration InitialCreate
 ```
 ```
-> Update-Database
+Update-Database
 ```
 
 ### Testing
